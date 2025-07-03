@@ -50,9 +50,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
-Ongoing – CCNA (Cisco Certified Network Associate)\
-2022 – University of South Wales / Computer Security Bcs / Partial Credit - Incomplete\
-2018 – Cardiff and Vale / Level 3 Btech Extended National Diploma in I.T | DDM.\
+Ongoing |CCNA (Cisco Certified Network Associate)\
+2022    ||University of South Wales / Computer Security Bcs / Partial Credit - Incomplete\
+2018    |Cardiff and Vale / Level 3 Btech Extended National Diploma in I.T | DDM.\
 
 Computer Security Bcs - Modules Completed: 
  
