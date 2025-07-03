@@ -54,14 +54,16 @@ Ongoing – CCNA (Cisco Certified Network Associate)\
 2022 – University of South Wales / Computer Security Bcs / Partial Credit - Incomplete\
 2018 – Cardiff and Vale / Level 3 Btech Extended National Diploma in I.T | DDM.\
 
- Computer Security Bcs - Modules Completed: \
+Computer Security Bcs - Modules Completed: \
  
 IS2S561P201 Project Management and Professional Practice \
 IS2S568P201 Operating System Theory and Implementation \
 IS2S569P201 Applied Computer Networking\
- IY2S504P101 Team Project Pen Testing \
+IY2S504P101 Team Project Pen Testing \
 IY2S600P101 Secure Web Programming \
 MS2S562W101 Cryptography \
+
+
 Attended the Welsh Skills Competition as a contender for Cardiff and Vale, Cardiff\
 
 
