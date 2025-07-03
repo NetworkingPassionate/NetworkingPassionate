@@ -50,17 +50,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
-2025 - Ongoing – CCNA (Cisco Certified Network Associate)\
-2018 - 2022 – University of South Wales / Computer Security Bcs / Partial Credit - Incomplete
-2016 - 2018 – Cardiff and Vale / Level 3 Btech Extended National Diploma in I.T | DDM.
- Computer Security Bcs - Modules Completed: 
-IS2S561P201 Project Management and Professional Practice 
-IS2S568P201 Operating System Theory and Implementation 
-IS2S569P201 Applied Computer Networking
- IY2S504P101 Team Project Pen Testing 
-IY2S600P101 Secure Web Programming 
-MS2S562W101 Cryptography 
-Attended the Welsh Skills Competition as a contender for Cardiff and Vale, Cardiff
+Ongoing – CCNA (Cisco Certified Network Associate)\
+2022 – University of South Wales / Computer Security Bcs / Partial Credit - Incomplete\
+2018 – Cardiff and Vale / Level 3 Btech Extended National Diploma in I.T | DDM.\
+
+ Computer Security Bcs - Modules Completed: \
+ 
+IS2S561P201 Project Management and Professional Practice \
+IS2S568P201 Operating System Theory and Implementation \
+IS2S569P201 Applied Computer Networking\
+ IY2S504P101 Team Project Pen Testing \
+IY2S600P101 Secure Web Programming \
+MS2S562W101 Cryptography \
+Attended the Welsh Skills Competition as a contender for Cardiff and Vale, Cardiff\
 
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
