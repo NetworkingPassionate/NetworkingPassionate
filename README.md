@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- <b>Packet Tracer Personal Network (Office Lab!)</b>
-  - [Device Configuration Over CLI](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Simple CLI Projects (Packet Tracer)</b>
+ 
+- <b>Office Network Setup (Packet Tracer)</b>
   - [Device Configuration Over CLI](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
   - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
