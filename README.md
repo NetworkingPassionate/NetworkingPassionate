@@ -4,7 +4,7 @@
 
  
 - <b>Office Network Setup (Packet Tracer)</b>
-  - [Device Configuration Over CLI](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
   - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SIEM Network Protection</b>
