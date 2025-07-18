@@ -74,3 +74,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1024" height="614" alt="pngegg" src="https://github.com/user-attachments/assets/286070ab-b5f0-4271-aaa4-0de0437914d1" />
+
+<img width="1200" height="403" alt="comptia-professional-certification-test-logo-security-control-30d02534d657d9423b04cf7b17956928" src="https://github.com/user-attachments/assets/8c94a737-912e-4711-967b-36a676cd2696" />
+
+
+
