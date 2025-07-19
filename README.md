@@ -5,10 +5,10 @@
  
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
-- <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
-  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>SIEM Network Protection</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Network Security Activities</b>
+  - [Intermediate Security Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- <b>Network Maintenance Activities</b>
+  - [Intermediate Maintenance Activities](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
