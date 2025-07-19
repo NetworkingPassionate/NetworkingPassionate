@@ -6,9 +6,9 @@
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
 - <b>Network Security Activities</b>
-  - [Basic Security Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [Intermediate Security Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [Advanced Security Protocols](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
+  - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
+  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
 - <b>Network Maintenance Activities</b>
   - [Intermediate Maintenance Activities](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python Projects (.NET Desktop Applications)</b>
