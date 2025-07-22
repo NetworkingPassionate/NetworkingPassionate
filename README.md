@@ -26,8 +26,7 @@
     
 
 
-
-  - <h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 
 - <b>Network Security Activities</b>
