@@ -35,8 +35,8 @@
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
   
-- <b>Web Application Security</b>
-  - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)[hackthissite.org]
+- <b>Web Application Security (hackthissite.org)</b>
+  - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
 
 - <b>Ethical Pen-Testing</b>
