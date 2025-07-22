@@ -1,11 +1,35 @@
 <h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">Networker</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
 
- 
+<h2>👨‍💻 Networking Projects:</h2>
+
+
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
-  - 
+  - [Switch/Router Configurations](https://github.com/NetworkingPassionate/Switch-Router-Configuration)
+    
+- <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
+  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
+- <b>SIEM Network Protection</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+    
+- <b>Python Projects (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+    
+- <b>Cloud Security</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+
+  - <h2>👨‍💻 Cyber Security Projects:</h2>
+
+
 - <b>Network Security Activities</b>
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
@@ -20,32 +44,6 @@
 
 
 
-
-<h2>👨‍💻 Networking Projects:</h2>
-
-
-- <b>Office Network Setup (Packet Tracer)</b>
-  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
-  - 
-- <b>Port-Scanning and Vulnerability Mapping</b>
-  - [Security Anaylsis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
-- <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
-  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  
-- <b>SIEM Network Protection</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - 
-- <b>Python Projects (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - 
-- <b>Cloud Security</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -67,8 +65,6 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -81,6 +77,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 <img width="341" height="204" alt="pngegg" src="https://github.com/user-attachments/assets/286070ab-b5f0-4271-aaa4-0de0437914d1" />
 
 <img width="400" height="134" alt="comptia-professional-certification-test-logo-security-control-30d02534d657d9423b04cf7b17956928" src="https://github.com/user-attachments/assets/8c94a737-912e-4711-967b-36a676cd2696" />
