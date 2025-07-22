@@ -9,7 +9,7 @@
   - [Switch/Router Configurations](https://github.com/NetworkingPassionate/Switch-Router-Configuration)
     
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
-  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   
 - <b>SIEM and SOC Network Management/Automation/b>
   - [Siem Management](https://github.com/joshmadakor1/Sentinel-Lab)
