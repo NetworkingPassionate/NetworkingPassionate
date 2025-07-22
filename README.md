@@ -9,9 +9,9 @@
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
-- <b>Network Maintenance Activities</b>
-  - [Intermediate Maintenance Activities](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python Projects (.NET Desktop Applications)</b>
+- <b>Web Application Security</b>
+  - [Web-Based Application Security](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Web-Based Exploits</b>
 
 - <b>Ethical Pen-Testingd</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
