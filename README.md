@@ -5,15 +5,17 @@
  
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
+  - 
 - <b>Network Security Activities</b>
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
+  
 - <b>Web Application Security</b>
-  - [Web-Based Application Security](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Web-Based Exploits</b>
+  - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
-- <b>Ethical Pen-Testingd</b>
+
+- <b>Ethical Pen-Testing</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
@@ -21,19 +23,27 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b>Simple CLI Projects (Packet Tracer)</b>
-  - [Device Configuration Over CLI](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Office Network Setup (Packet Tracer)</b>
+  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
+  - 
+- <b>Port-Scanning and Vulnerability Mapping</b>
+  - [Security Anaylsis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
   - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 - <b>SIEM Network Protection</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - 
 - <b>Python Projects (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
 - <b>Cloud Security</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
