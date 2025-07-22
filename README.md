@@ -11,7 +11,7 @@
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
   - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   
-- <b>SIEM and SOC Network Management/Automation/b>
+- <b>SIEM and SOC Network Management/Automation /b>
   - [Siem Management](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Incident Reponse](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [SOC Automation](https://github.com/joshmadakor1/AD_PS)
