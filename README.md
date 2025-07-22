@@ -9,7 +9,7 @@
   - [Switch/Router Configurations](https://github.com/NetworkingPassionate/Switch-Router-Configuration)
     
 - <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
-  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   
 - <b>SIEM Network Protection</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -36,7 +36,7 @@
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
   
 - <b>Web Application Security</b>
-  - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
+  - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)[hackthissite.org]
 
 
 - <b>Ethical Pen-Testing</b>
