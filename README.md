@@ -22,7 +22,7 @@
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
   
-- <b>Web Application Security (hackthissite.org)</b>
+- <b>Ethical Pen-Testing</b>
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
 - <b>SLAs, Company Audits</b>
