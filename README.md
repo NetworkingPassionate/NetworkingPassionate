@@ -1,15 +1,12 @@
 <h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">Network Security</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>👨‍💻 NetSec Projects:</h2>
 
 
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
   - [Switch/Router Configurations](https://github.com/NetworkingPassionate/Switch-Router-Configuration)
-    
-- <b>Automation and Implementation (Ansible, Puppet and Chef)</b>
-  - [AI Network Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   
 - <b>SIEM and SOC Network (Management/Automation) </b>
   - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -24,11 +21,6 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
     
-
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-
 - <b>Network Security Activities</b>
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
@@ -43,6 +35,14 @@
 
 - <b>Cloud Security</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>SLAs, Company Audits</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2>💬 About Me</h2>
+
+
 
 
 
