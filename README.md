@@ -6,7 +6,6 @@
 
 - <b>Office Network Setup (Packet Tracer)</b>
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
-  - [Switch/Router Configurations](https://github.com/NetworkingPassionate/Switch-Router-Configuration)
   
 - <b>SIEM and SOC Network (Management/Automation) </b>
   - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -17,11 +16,8 @@
 - <b>VMWare Projects </b>
   - [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
   - [Linux](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
     
-- <b>Network Security Activities</b>
+- <b>Network Security</b>
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
