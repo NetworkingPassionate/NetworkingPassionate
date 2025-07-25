@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">NetSec</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">Network Security</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
 <h2>👨‍💻 Networking Projects:</h2>
