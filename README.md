@@ -26,7 +26,7 @@
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
 - <b>SLAs, Company Audits</b>
-  - [SLAs & Contract Law)](https://github.com/NetworkingPassionate/Contracts-SLA)
+  - [SLAs & Contract Law](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
 - <b>Detection & Response</b>
