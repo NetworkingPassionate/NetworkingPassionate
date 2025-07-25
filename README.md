@@ -26,7 +26,7 @@
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
 - <b>SLAs, Company Audits</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SLAs & Contract Law)](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
 - <b>Detection & Response</b>
