@@ -25,14 +25,11 @@
 - <b>Web Application Security (hackthissite.org)</b>
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
 
-
-- <b>Ethical Pen-Testing</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-- <b>Cloud Security</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 - <b>SLAs, Company Audits</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+- <b>Detection & Response</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
