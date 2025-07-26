@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor! <br/><a href="https://github.com/joshmadakor1">Network Security</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
+<h1>Hi, I'm Connor Llewellyn Palmer. <br/><a href="https://github.com/joshmadakor1">Network Security</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
 
 
 <h2>👨‍💻 NetSec Projects:</h2>
