@@ -4,9 +4,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-- <b>Office Network Setup (Packet Tracer)
-  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
-  
+- <b>Lab Network Setup 
+  - [Personal Lab Config] (Packet Tracer) (https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
+  - VMWare Projects
+  -- [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
+  -- [Linux](https://github.com/joshmadakor1/EncrypterPOC)
 - SIEM and SOC Network (Management/Automation) 
   - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Incident Reponse](https://github.com/joshmadakor1/Jwipe.PowerShell)
