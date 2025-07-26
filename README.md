@@ -7,26 +7,26 @@
 - <b>Office Network Setup (Packet Tracer)
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
   
-- <b>SIEM and SOC Network (Management/Automation) 
+- SIEM and SOC Network (Management/Automation) 
   - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Incident Reponse](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [SOC Automation](https://github.com/joshmadakor1/AD_PS)
   - [Threat Detection Simulation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
-- <b>VMWare Projects
+- VMWare Projects
   - [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
   - [Linux](https://github.com/joshmadakor1/EncrypterPOC)
     
-- <b>Network Security<
+- Network Security<
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
   
-- <b>Ethical Pen-Testing
+- Ethical Pen-Testing
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
   - [Packet Captures](https://github.com/NetworkingPassionate/Packet-Captures)
 
-- <b>SLAs, Company Audits
+- SLAs, Company Audits
   - [SLAs & Contract Law](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
