@@ -7,15 +7,14 @@
 - <b>Lab Network Setup 
   - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
   - [VMWare Projects](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Ubuntu/Linux/Windows)
+ 
+    
 - SIEM and SOC Network (Management/Automation) 
   - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Incident Reponse](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [SOC Automation](https://github.com/joshmadakor1/AD_PS)
   - [Threat Detection Simulation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-    
-- VMWare Projects
-  - [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Linux](https://github.com/joshmadakor1/EncrypterPOC)
+  
     
 - Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
