@@ -5,7 +5,7 @@
 
 
 - <b>Lab Network Setup 
-  - [Personal Lab Config] (Packet Tracer) (https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main)
+  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
   - VMWare Projects
   -- [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
   -- [Linux](https://github.com/joshmadakor1/EncrypterPOC)
