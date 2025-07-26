@@ -17,10 +17,10 @@
   - [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
   - [Linux](https://github.com/joshmadakor1/EncrypterPOC)
     
-- Network Security<
-  - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) <b><i></b></i>
-  - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) <b><i></b></i>
-  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) <b><i></b></i>
+- Network Security
+  - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
+  - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) 
+  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) 
   
 - Ethical Pen-Testing
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
