@@ -13,7 +13,7 @@
   - [SOC Automation](https://github.com/joshmadakor1/AD_PS)
   - [Threat Detection Simulation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
-- <b>VMWare Projects 
+- <b>VMWare Projects
   - [Ubuntu](https://github.com/joshmadakor1/EncrypterPOC)
   - [Linux](https://github.com/joshmadakor1/EncrypterPOC)
     
