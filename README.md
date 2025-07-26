@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor Llewellyn Palmer. <br/><a href="https://github.com/joshmadakor1">CyberSecurity</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
+<h1>Hi, I'm Connor Llewellyn Palmer. CyberSecurity</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
@@ -9,12 +9,16 @@
   - [VMWare Projects](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Ubuntu/Linux/Windows)
  
     
-- SIEM and SOC Network (Management/Automation) 
-  - [SIEM Management](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Incident Reponse](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [SOC Automation](https://github.com/joshmadakor1/AD_PS)
-  - [Threat Detection Simulation](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  
+- SIEM Management
+  - [SIEM Management]()
+  - [SOC Automation]()
+
+  - Vulnerabillity Detection/Prevention
+  - [Nessus Essentials]()
+  - [Incident Reponse]()
+  - [Firewalls & VPNs]()
+  - [Port Scanning Python Script]()
+  - [Social Engineering]()
     
 - Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
