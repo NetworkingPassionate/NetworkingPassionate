@@ -68,10 +68,9 @@ Let's connect — and feel free to explore the projects above!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on completing my Cisco **CCNA**, and **Comptia+ Security** Certificates, this will be a big step for me and I'm very excited. 
-- 🌱 I’m currently learning Spanish! This will be a huge gift for me, and hopefully a start to me learning many other languages, to assist me my future travels :) 
-- 📫 How to reach me:
-  📧 connor.palmer16@outlook.com 📱 07340474681
+- 🔭 I’m currently working on completing my Cisco **CCNA**, and **Comptia+ Security** Certificates
+- 🌱 I’m currently learning Spanish! This will be a huge gift for me, and hopefully a start to me learning many other languages
+- 📫 How to reach me: 📧 connor.palmer16@outlook.com 📱 07340474681
 - ⚡ Fun fact: I hope to complete the Cancer Research U.K. race for life in 2026!
 -->
   
