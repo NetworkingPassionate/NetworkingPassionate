@@ -13,7 +13,7 @@
   - [SIEM Management]()
   - [SOC Automation]()
 
-  - Vulnerabillity Detection/Prevention
+ - Vulnerabillity Detection/Prevention
   - [Nessus Essentials]()
   - [Incident Reponse]()
   - [Firewalls & VPNs]()
