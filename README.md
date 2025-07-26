@@ -14,11 +14,11 @@
   - [SOC Automation]()
 
  - Vulnerabillity Detection/Prevention
-  -- [Nessus Essentials]()
-  -- [Incident Reponse]()
-  - [Firewalls & VPNs]()
-  - [Port Scanning Python Script]()
-  - [Social Engineering]()
+   - [Nessus Essentials]()
+   - [Incident Reponse]()
+   - [Firewalls & VPNs]()
+   - [Port Scanning Python Script]()
+   - [Social Engineering]()
     
 - Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
