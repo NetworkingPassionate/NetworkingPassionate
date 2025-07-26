@@ -29,14 +29,20 @@
   - [SLAs & Contract Law](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
-- <b>Detection & Response</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 <h2>💬 About Me</h2>
 
+## 👋 About Me
 
+Hi there! I'm Connor — a detail-driven tech enthusiast with a passion for hands-on cybersecurity, and network engineering.
 
+After earning a **DDM BTEC National Diploma in Information Technology**, I spent **three years studying at the University of South Wales**, focusing on topics that sharpened both my technical depth and problem-solving mindset. My academic background laid the foundation for my self-led exploration into network security, SIEM log analysis, firewall testing, and automation.
+
+In between packet captures and Python scripts, you'll find me immersed in strategy as an **avid chess player**, working as a **carer**, and designing signage as part of my day job in **Cardiff**. My portfolio reflects a blend of creativity, precision, and professional polish — whether it's documentation, scripting tools, or technical walkthroughs.
+
+I use this space to showcase real-world labs, write-ups, and curated demos that highlight my growth, curiosity, and commitment to becoming a well-rounded NetSec professional.
+
+Let's connect — and feel free to explore the projects above!
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -62,14 +68,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on completing my Cisco **CCNA**, and **Comptia+ Security** Certificates, this will be a big step for me and I'm very excited. 
+- 🌱 I’m currently learning Spanish! This will be a huge gift for me, and hopefully a start to me learning many other languages, to assist me my future travels :) 
+- 📫 How to reach me:
+  📧 connor.palmer16@outlook.com 📱 07340474681
+- ⚡ Fun fact: I hope to complete the Cancer Research U.K. race for life in 2026!
 -->
   
 <img width="341" height="204" alt="pngegg" src="https://github.com/user-attachments/assets/286070ab-b5f0-4271-aaa4-0de0437914d1" />
