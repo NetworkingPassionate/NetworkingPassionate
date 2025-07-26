@@ -14,7 +14,7 @@
   - [SOC Automation]()
 
  - Vulnerabillity Detection/Prevention
-  - [Nessus Essentials]()
+  - [Nessus Essentials]
   - [Incident Reponse]()
   - [Firewalls & VPNs]()
   - [Port Scanning Python Script]()
