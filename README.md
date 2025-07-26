@@ -1,7 +1,7 @@
-<h1>Hi, I'm Connor Llewellyn Palmer. <br/><a href="https://github.com/joshmadakor1">Network Security</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
+<h1>Hi, I'm Connor Llewellyn Palmer. <br/><a href="https://github.com/joshmadakor1">CyberSecurity</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
 
 
-<h2>👨‍💻 NetSec Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 
 - <b>Office Network Setup (Packet Tracer)
