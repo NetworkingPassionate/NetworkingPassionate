@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor Llewellyn Palmer. CyberSecurity</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
+<h1>Hi, I'm Connor, CyberSecurity</a> <a href="https://www.linkedin.com/in/joshmadakor/"> Professional</a>
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
