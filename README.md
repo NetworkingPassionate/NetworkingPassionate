@@ -34,7 +34,7 @@
 
 
 
-<h2>💬 About Me</h2>
+<h2>💬 About Me </h2>
 
 ## 👋 About Me
 
@@ -48,15 +48,6 @@ I use this space to showcase real-world labs, write-ups, and curated demos that 
 
 Let's connect, and feel free to explore the projects above!
 
-Hi there! I'm Connor; a detail-driven tech enthusiast with a passion for hands-on cybersecurity, and network engineering.
-
-After earning a **DDM BTEC National Diploma in Information Technology**, I spent **three years studying at the University of South Wales**, focusing on topics that sharpened both my technical depth and problem-solving mindset. My academic background laid the foundation for my self-led exploration into network security, SIEM log analysis, firewall testing, and automation.
-
-In between packet captures and Python scripts, you'll find me immersed in strategy as an **avid chess player**, working as a **carer**, and designing signage as part of my day job in **Cardiff**. My portfolio reflects a blend of creativity, precision, and professional polish; whether it's documentation, scripting tools, or technical walkthroughs.
-
-I use this space to showcase real-world labs, write-ups, and curated demos that highlight my growth, curiosity, and commitment to becoming a well-rounded NetSec professional.
-
-Let's connect, and feel free to explore the projects above!
 
 
 
