@@ -48,6 +48,8 @@ Let's connect, and feel free to explore the projects above!
 
 
 
+<h2>💬 About Me </h2>
+
 
 Here are some ideas to get you started:
 
