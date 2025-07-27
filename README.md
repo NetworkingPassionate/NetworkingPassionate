@@ -17,7 +17,7 @@
    - [Nessus Essentials](https://github.com/NetworkingPassionate/Nessus-Essentials)
    - [Incident Reponse]()
    - [Firewalls & VPNs](https://github.com/NetworkingPassionate/Firewalls-VPNs)
-   - [Port Scanning Python Script](https://github.com/NetworkingPassionate/Port-Scanning-Exercise)
+   - [Port Scanning](https://github.com/NetworkingPassionate/Port-Scanning-Exercise)
    - [Social Engineering](https://github.com/NetworkingPassionate/Social-Engineering)
     
 - Network Security
