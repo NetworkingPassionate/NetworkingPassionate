@@ -5,20 +5,20 @@
 
 
 - <b>Lab Network Setup 
-  - [Personal Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
+  - [Mega Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
   - [VMWare Projects](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Ubuntu/Linux/Windows)
  
     
 - SIEM Management
-  - [SIEM Management]()
+  - [SIEM Management](https://github.com/NetworkingPassionate/SIEM-Management)
   - [SOC Automation]()
 
  - Vulnerabillity Detection/Prevention
-   - [Nessus Essentials]()
+   - [Nessus Essentials](https://github.com/NetworkingPassionate/Nessus-Essentials)
    - [Incident Reponse]()
-   - [Firewalls & VPNs]()
-   - [Port Scanning Python Script]()
-   - [Social Engineering]()
+   - [Firewalls & VPNs](https://github.com/NetworkingPassionate/Firewalls-VPNs)
+   - [Port Scanning Python Script](https://github.com/NetworkingPassionate/Port-Scanning-Exercise)
+   - [Social Engineering](https://github.com/NetworkingPassionate/Social-Engineering)
     
 - Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
