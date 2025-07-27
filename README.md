@@ -34,8 +34,6 @@
 
 
 
-<h2>💬 About Me </h2>
-
 
 
 Hi there! I'm Connor; a detail-driven tech enthusiast with a passion for hands-on cybersecurity, and network engineering.
