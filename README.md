@@ -51,7 +51,7 @@ Let's connect, and feel free to explore the projects above!
 <h2>💬 About Me </h2>
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on completing my Cisco **CCNA**, and **Comptia+ Security** Certificates
 - 🌱 I’m currently learning Spanish! This will be a huge gift for me, and hopefully a start to me learning many other languages
