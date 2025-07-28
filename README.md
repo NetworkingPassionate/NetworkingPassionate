@@ -8,12 +8,12 @@
   - [Mega Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
   - [VMWare Projects](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Ubuntu/Linux/Windows)
  
- - Network Security
+- Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) 
   - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity)
     
- - Vulnerabillity Detection/Prevention
+- Vulnerabillity Detection/Prevention
    - [Nessus Essentials](https://github.com/NetworkingPassionate/Nessus-Essentials)
    - [Incident Reponse]()
    - [Firewalls & VPNs](https://github.com/NetworkingPassionate/Firewalls-VPNs)
