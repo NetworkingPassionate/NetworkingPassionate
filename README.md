@@ -32,7 +32,7 @@
   - [SLAs & Contract Law](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
-*This page is still new; please enjoy what content is on here, and show understanding as you read. Thank you  *
+This page is still new; please enjoy what content is on here, and show understanding as you read. Thank you  
 
 
 Hi there! I'm Connor; a detail-driven tech enthusiast with a passion for hands-on cybersecurity, and network engineering.
