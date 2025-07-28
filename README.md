@@ -8,11 +8,11 @@
   - [Mega Lab Config](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Packet Tracer)
   - [VMWare Projects](https://github.com/NetworkingPassionate/NetworkingMegaLab/tree/main) (Ubuntu/Linux/Windows)
  
+ - Network Security
+  - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
+  - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) 
+  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity)
     
-- SIEM Management
-  - [SIEM Management](https://github.com/NetworkingPassionate/SIEM-Management)
-  - [SOC Automation]()
-
  - Vulnerabillity Detection/Prevention
    - [Nessus Essentials](https://github.com/NetworkingPassionate/Nessus-Essentials)
    - [Incident Reponse]()
@@ -20,11 +20,10 @@
    - [Port Scanning](https://github.com/NetworkingPassionate/Port-Scanning-Exercise)
    - [Social Engineering](https://github.com/NetworkingPassionate/Social-Engineering)
     
-- Network Security
-  - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
-  - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) 
-  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity) 
-  
+- SIEM Management
+  - [SIEM Management](https://github.com/NetworkingPassionate/SIEM-Management)
+
+
 - Ethical Pen-Testing
   - [Web-Based Exploits](https://github.com/NetworkingPassionate/Web-Based-Application-Security)
   - [Packet Captures](https://github.com/NetworkingPassionate/Packet-Captures)
@@ -33,7 +32,7 @@
   - [SLAs & Contract Law](https://github.com/NetworkingPassionate/Contracts-SLA)
 
 
-
+*This page is still new; please enjoy what content is on here, and show understanding as you read. Thank you  *
 
 
 Hi there! I'm Connor; a detail-driven tech enthusiast with a passion for hands-on cybersecurity, and network engineering.
