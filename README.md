@@ -11,7 +11,6 @@
 - Network Security
   - [Basic Network Security](https://github.com/NetworkingPassionate/BasicNetworkSecurity) 
   - [Intermediate Network Security](https://github.com/NetworkingPassionate/IntermediateNetworkSecurity) 
-  - [Advanced Network Security](https://github.com/NetworkingPassionate/AdvancedNetworkSecurity)
     
 - Vulnerabillity Detection/Prevention
    - [Nessus Essentials](https://github.com/NetworkingPassionate/Nessus-Essentials)
